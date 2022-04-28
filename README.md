@@ -1,6 +1,6 @@
 # semanaomnistack11
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src="/.github/bethehero1.svg" width="200px" />
+    <img alt="BeTheHero" title="#BeTheHero" src="/.github/betheher1.svg" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/bethehero_app.png" width="100%">
+  <img alt="BeTheHero" src=".github/betheher_app.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
