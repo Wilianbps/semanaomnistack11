@@ -26,6 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
+- [Sqlite](https://www.sqlite.org/index.html)
 
 ## 💻 Projeto
 
@@ -38,18 +39,14 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 ## ⚙ Configuração
 
-1- Antes de começar, você vai precisar instalar na sua máquina as seguintes ferramentas: GIT, Node e Sqlite3. Além disso, é bom ter um editorpara trabalhar com código, como o <a href="https://code.visualstudio.com/download">VSCode</a>.
+1- Antes de começar, você vai precisar instalar na sua máquina as seguintes ferramentas: Git, Node. Além disso, é bom ter um editor para trabalhar com código, como o <a href="https://code.visualstudio.com/download">VSCode</a>.
 
-Para instalar as dependências:
+Para instalar o sqlite3 no back-end:
+> yarn add sqlite3 --save
+
+Para instalar as dependências no front-end:
 > yarn
 
-2- Para iniciar a aplicação:
+Para iniciar a aplicação no front-end e no back-end:
 > yarn start
 
-
----
-
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
