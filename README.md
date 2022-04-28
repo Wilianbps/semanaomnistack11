@@ -1,6 +1,6 @@
 # semanaomnistack11
 <h1 align="center">
-    <img alt="BeTheHero" title="#delicinha" src=".github/bethehero1.svg" width="200px" />
+    <img alt="BeTheHero" title="#BeTheHero" src="/.github/bethehero1.svg" width="200px" />
 </h1>
 
 <h4 align="center">
