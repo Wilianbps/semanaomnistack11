@@ -12,12 +12,13 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Configuração</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/betheher_app.png" width="100%">
+  <img alt="BeTheHero" src=".github/betherehero_app.PNG" width="100%">
 </p>
 
 ## :rocket: Tecnologias
